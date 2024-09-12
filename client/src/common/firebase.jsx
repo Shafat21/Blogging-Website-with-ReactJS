@@ -2,12 +2,12 @@ import { initializeApp } from "firebase/app";
 import { GoogleAuthProvider, getAuth, signInWithPopup } from 'firebase/auth'
 
 const firebaseConfig = {
-    apiKey: "AIzaSyA0DVHeNNsTDCxbOcAbzevRFDPCkOef6XA",
-    authDomain: "blog-website-a4302.firebaseapp.com",
-    projectId: "blog-website-a4302",
-    storageBucket: "blog-website-a4302.appspot.com",
-    messagingSenderId: "315092673980",
-    appId: "1:315092673980:web:668bbb0ba17b11077677b9"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
 };
 
 const app = initializeApp(firebaseConfig);
