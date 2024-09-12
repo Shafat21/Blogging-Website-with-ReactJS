@@ -1,0 +1,5 @@
+
+client/.env
+client/.eslintrc.cjs
+client/package-lock.json
+client/src/regex.txt
