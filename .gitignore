@@ -7,3 +7,4 @@ server/.env
 server/.gitattributes
 server/blog-website-a4302-firebase-adminsdk-hkey7-bc1ddf0dd9.json
 server/package-lock.json
+client/src/common/firebase.jsx
