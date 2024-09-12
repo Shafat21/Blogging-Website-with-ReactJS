@@ -32,8 +32,8 @@ Make sure you have the following installed on your system:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/blog-client.git
-cd blog-client
+git clone https://github.com/Shafat21/Blogging-Website-with-ReactJS.git
+cd Blogging-Website-with-ReactJS
 ```
 
 ### Install Dependencies
