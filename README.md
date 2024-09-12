@@ -56,8 +56,6 @@ npm start
 yarn start
 ```
 
-The app will be running on `http://localhost:3000`.
-
 ### Build for Production
 
 To create an optimized production build:
@@ -90,21 +88,25 @@ Here are some screenshots of the application:
 
 ### Homepage
 
-![Homepage](screenshots/homepage.png)
+[![image.png](https://i.postimg.cc/7P7Qt78P/image.png)](https://postimg.cc/XXj8prYt)
+
 
 ### Blog Post View
 
-![Blog Post View](screenshots/blog-post-view.png)
+[![image.png](https://i.postimg.cc/pLVGd69y/image.png)](https://postimg.cc/Mv4bPtm8)
 
 ### Create New Post
 
-![Create New Post](screenshots/create-new-post.png)
+[![image.png](https://i.postimg.cc/65Xbk3tr/image.png)](https://postimg.cc/grgKRGwj)
 
-### Edit Post
 
-![Edit Post](screenshots/edit-post.png)
 
-> Add your screenshots to a `screenshots` folder in the project root.
+[![image.png](https://i.postimg.cc/4x88HQtP/image.png)](https://postimg.cc/CRqCWDcn)
+### Dashboard
+[![image.png](https://i.postimg.cc/s2vTYG4r/image.png)](https://postimg.cc/QBZgstz4)
+[![image.png](https://i.postimg.cc/FK8DDFTJ/image.png)](https://postimg.cc/yJhmNK4V)
+### Edit Profile
+[![image.png](https://i.postimg.cc/Wz68NGTM/image.png)](https://postimg.cc/SYRCVzXs)
 
 ## Contributing
 
@@ -114,13 +116,30 @@ Feel free to contribute to this project by forking the repository and submitting
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+MIT License
+
+Copyright (c) 2024 Shafat Alam
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
 ---
 
 ### Author
 
-Developed by [Your Name]. You can reach out to me via [your-email@example.com].
-```
-
-### Instructions:
-- Replace `your-username`, `your-email@example.com`, and other placeholders with your details.
-- Create a `screenshots/` folder in your project directory and add your screenshots with names like `homepage.png`, `blog-post-view.png`, etc.
+Developed by Shafat Alam and Tanvir Mahmud Ove. You can reach out to me via [Gmail](shafat.mahtab@gmail.com).
